@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "YNoEJOMPzeQcotxHlShJQA9z5LahAKlVr1z4TO0XSAI=",
+  "Source": "azure",
+  "BasePath": "_content/azure",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
